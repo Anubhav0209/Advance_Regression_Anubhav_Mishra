@@ -11,9 +11,9 @@
 ## General Information
 We are required to build a regression model using regularisation (l1 norm & l2 norm) in order to predict the actual value of the prospective properties and decide whether to invest in them or not. We have to identify the following
 
-- which features are significant in predicting the price of a house
-- how well those features describe the price of a house
-- optimal value of strength of penalty (λ) for ridge and lasso
+- Features which are significant in predicting the price of a house
+- How well those features describe the price of a house
+- Optimal value of strength of penalty (λ) for ridge and lasso
 
 
 ## Technologies Used
